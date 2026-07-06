@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://manikanta-20-11.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-FFA500?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/manikanta_buddavarapu"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://portfolio-manikanta-20.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FFA500?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/buddavarapu-taraka-venkata-manikanta-b77458325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:manikanta_buddavarapu@srmap.edu.in"><img src="https://img.shields.io/badge/Email-Contact-FFA500?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
